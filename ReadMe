@@ -9,8 +9,7 @@ This program will help you to detect facial mask monitoring using OpenCV and Pyt
 
 
 How Haar Cascade Classifier Works:
-
-https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08
+[Haar Cascade](https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08)
 
 
 
